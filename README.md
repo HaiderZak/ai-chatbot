@@ -11,7 +11,7 @@ $ cd ai-chatbot
 
 $ pip3 install -r requirements.txt
 
-$ python3 peter.py
+$ python3 peter.py OR py peter.py
 
 ```
 
