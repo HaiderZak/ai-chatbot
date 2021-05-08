@@ -1,6 +1,8 @@
 # ai-chatbot
 An interactive chatbot called 'Peter' that talks about AI with you
 
+https://user-images.githubusercontent.com/37321974/117522758-23bb8300-af83-11eb-9c7b-5a424678c702.mp4
+
 How to download:
 
 Requirements: Pip3 and Python3
@@ -18,10 +20,6 @@ OR
 $ py peter.py
 
 ```
-
-
-
-https://user-images.githubusercontent.com/37321974/117522758-23bb8300-af83-11eb-9c7b-5a424678c702.mp4
 
 
 
