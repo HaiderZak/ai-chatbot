@@ -20,6 +20,9 @@ $ py peter.py
 ```
 
 
-https://user-images.githubusercontent.com/37321974/117522744-130b0d00-af83-11eb-8842-0a0219caba4a.mp4
+
+https://user-images.githubusercontent.com/37321974/117522758-23bb8300-af83-11eb-9c7b-5a424678c702.mp4
+
+
 
 
