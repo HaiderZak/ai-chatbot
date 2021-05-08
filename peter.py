@@ -1,4 +1,3 @@
-
 #https://medium.com/predict/create-your-chatbot-using-python-nltk-761cd0aeaed3
 
 import random
