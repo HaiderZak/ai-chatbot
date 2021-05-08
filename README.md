@@ -9,7 +9,7 @@ $ git clone https://github.com/HaiderZak/ai-chatbot.git
 
 $ cd ai-chatbot
 
-$ pip install -r requirements.txt
+$ pip3 install -r requirements.txt
 
 $ python3 peter.py
 
